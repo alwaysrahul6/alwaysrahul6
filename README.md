@@ -1,211 +1,147 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Rahul%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=RAHUL%20SHARMA&fontSize=70&animation=twinkling&fontColor=ffffff"/>
 
-# 👋 Hi, I'm Rahul Sharma
-
-### Backend Developer | Java | Spring Boot | System Design
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%26+Spring+Boot+Engineer;Building+Scalable+REST+APIs;System+Design+Learner;DSA+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+Engineer;Spring+Boot+Developer;Building+Scalable+Systems;System+Design+Learner;Always+Learning+Always+Building"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# < Hello World />
 
 ```java
-public class RahulSharma {
+public class Rahul {
 
     String role = "Backend Developer";
 
-    String[] skills = {
+    String[] tech = {
         "Java",
         "Spring Boot",
-        "REST APIs",
         "MySQL",
-        "System Design",
-        "DSA"
+        "Docker",
+        "Git",
+        "Linux"
     };
 
-    String currentFocus =
-        "Building scalable backend applications";
+    String philosophy =
+        "Build. Scale. Improve.";
 }
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,linux,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,linux,git,github,postman,idea"/>
 
 </div>
 
 ---
 
-# 🎯 Current Goals
-
-- 🔥 Master Spring Boot
-- 🔥 Learn Microservices
-- 🔥 Improve System Design
-- 🔥 Solve DSA Daily
-- 🔥 Build Production Ready APIs
-- 🔥 Prepare for Software Engineering Roles
-
----
-
-# 🏗 Backend Architecture Mindset
+# 🧠 Engineering Focus
 
 ```text
-Client
-   │
-   ▼
-Spring Boot API
-   │
-   ▼
-Service Layer
-   │
-   ▼
-Repository Layer
-   │
-   ▼
-MySQL Database
+Backend Development     ███████████████
+
+Spring Boot             ██████████████
+
+REST APIs               ██████████████
+
+Database Design         ███████████
+
+System Design           █████████
+
+Docker                  ███████
+
+Cloud                   █████
 ```
 
 ---
 
-# 📚 Featured Projects
-
-## 🏠 GharNear
-
-Property Discovery Platform
-
-Tech Used:
-
-- Java
-- Spring Boot
-- MySQL
-
----
-
-## ☕ TodoApi-SpringBoot
-
-RESTful Todo Application
-
-Features:
-
-- CRUD Operations
-- API Design
-- Database Integration
-
----
-
-## 📖 DSA-SERIES
-
-Daily DSA Practice Repository
-
-Topics:
-
-- Arrays
-- Strings
-- Trees
-- Graphs
-- Dynamic Programming
-
----
-
-## 🏗 System-Design
-
-Notes and Architecture Learning Repository
-
-Topics:
-
-- Scalability
-- Databases
-- Load Balancing
-- Distributed Systems
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alwaysrahul6&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysrahul6&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alwaysrahul6&theme=tokyonight" />
-
-</div>
-
----
-
-# 🧠 Learning Roadmap
+# 🌌 System Architecture
 
 ```text
-Java                ██████████████
-Spring Boot         ████████████
-REST APIs           ███████████
-MySQL               ██████████
-System Design       ███████
-Microservices       █████
-Docker              ████
-AWS                 ███
+┌─────────────┐
+│   CLIENT    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ SPRING BOOT │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│  SERVICES   │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ DATABASES   │
+└─────────────┘
 ```
 
 ---
 
-# 🏆 Coding Profiles
+# 📊 GitHub Analytics
 
-### LeetCode
+<div align="center">
 
-https://leetcode.com/u/rahuldevsharma/
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alwaysrahul6&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### GeeksForGeeks
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysrahul6&layout=compact&theme=tokyonight&hide_border=true"/>
 
-https://www.geeksforgeeks.org/user/meetrahulsw88z/
-
----
-
-# 🌐 Connect With Me
-
-LinkedIn:
-
-www.linkedin.com/in/rahul-kumar-sharmaaa
-
-GitHub:
-
-https://github.com/alwaysrahul6
+</div>
 
 ---
 
-# 🐍 Contribution Graph
+# 🔥 Streak Stats
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alwaysrahul6&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 💡 Quote
+# 🐍 Activity Graph
 
-> "Code. Build. Scale. Repeat."
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 💻 Daily Workflow
+
+```text
+Code
+ ↓
+Debug
+ ↓
+Optimize
+ ↓
+Deploy
+ ↓
+Repeat
+```
+
+---
+
+# 🌐 Connect
+
+[LinkedIn](YOUR_LINKEDIN)
+
+[Portfolio](YOUR_PORTFOLIO)
+
+[Email](YOUR_EMAIL)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
-
-Backend Developer • Java • Spring Boot
+### ⚡ BUILDING SCALABLE BACKEND SYSTEMS ⚡
 
 </div>
