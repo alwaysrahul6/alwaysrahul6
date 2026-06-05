@@ -21,7 +21,7 @@ public class Rahul {
         "MySQL",
         "Docker",
         "Git",
-        "Linux"
+        "Linux".
     };
 
     String philosophy =
