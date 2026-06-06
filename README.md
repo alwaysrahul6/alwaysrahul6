@@ -17,7 +17,7 @@ public class Rahul {
 
     String[] tech = {
         "Java",
-        "Spring Boot",
+        "Spring Boot", 
         "MySQL",
         "Docker",
         "Git",
