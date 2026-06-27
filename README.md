@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">. 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=RAHUL%20SHARMA&fontSize=70&animation=twinkling&fontColor=ffffff"/>
 
