@@ -1,5 +1,5 @@
 <div align="center">. 
-
+   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=RAHUL%20SHARMA&fontSize=70&animation=twinkling&fontColor=ffffff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+Engineer;Spring+Boot+Developer;Building+Scalable+Systems;System+Design+Learner;Always+Learning+Always+Building"/>
